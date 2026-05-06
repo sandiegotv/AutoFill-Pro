@@ -1,0 +1,6 @@
+venv/
+_pycache_/
+*.pyc
+*.exe
+licenca.key
+dados.xlsx
