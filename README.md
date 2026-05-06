@@ -76,6 +76,9 @@ O sistema também pode ser disponibilizado como executável (.exe) para uso dire
 - Recomenda-se testes antes da utilização em produção
 
 ---
+## 📸 Preview do Sistema
+
+![Dashboard](assets/dashboard.png)
 
 📌 Autor
 
